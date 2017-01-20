@@ -11,7 +11,7 @@ $http({
 }).then(function successCallback(response) {
 
     response = angular.fromJson(response);
-    validade = response['data']['expiration'];
+    var validade = response.data.expiration;
     console.log(validade);
 
 }, function errorCallback(response) {

@@ -11,7 +11,7 @@ $http({
 }).then(function successCallback(response) {
 
     response = angular.fromJson(response);
-    status = response['data']['status'];
+    var status = response.data.status;
     console.log(status);
 
 }, function errorCallback(response) {
