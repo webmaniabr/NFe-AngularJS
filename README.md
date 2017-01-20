@@ -11,6 +11,7 @@ Através do emissor de Nota Fiscal da WebmaniaBR®, você conta com a emissão e
 
 ## Exemplos
 
+- **emissaoNotaFiscal.js**: Emissão da Nota Fiscal junto ao SEFAZ.
 - **statusSefaz.js**: Verifica se o Sefaz está Online ou Offline.
 - **validadeCertificadoA1.js**: Verifica se o Certificado A1 é válido e quantos dias faltam para expirar.
 
