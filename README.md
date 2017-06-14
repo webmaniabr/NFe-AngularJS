@@ -17,4 +17,4 @@ Através do emissor de Nota Fiscal da WebmaniaBR®, você conta com a emissão e
 
 ## Suporte
 
-Qualquer dúvida entre em contato na nossa [Central de Atendimento](https://webmaniabr.com/atendimento/) ou no e-mail suporte@webmaniabr.com.
+Qualquer dúvida entre em contato na nossa [Central de Ajuda](https://ajuda.webmaniabr.com) ou acesse o [Painel de Controle](https://webmaniabr.com/painel/) para conversar em tempo real no Chat ou Abrir um chamado.
