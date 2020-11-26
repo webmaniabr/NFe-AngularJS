@@ -20,5 +20,4 @@ Através do emissor de Nota Fiscal da WebmaniaBR®, você conta com a emissão e
 - **validadeCertificadoA1.js**: Verifica se o Certificado A1 é válido e quantos dias faltam para expirar.
 
 ## Suporte
-
-Qualquer dúvida entre em contato na nossa [Central de Ajuda](https://ajuda.webmaniabr.com) ou acesse o [Painel de Controle](https://webmaniabr.com/painel/) para conversar em tempo real no Chat ou Abrir um chamado.
+Qualquer dúvida cesse o [Painel WebmaniaBR®](https://webmaniabr.com/painel/) para *abrir um chamado* ou conversar em tempo real no *chat*.
